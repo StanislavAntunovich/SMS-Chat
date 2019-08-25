@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SMS Chat</string>
+    <string name="new_message">New Message</string>
+    <string name="send_button">Send Message</string>
+    <string name="text_phone">Phone</string>
+    <string name="warning_no_permission">
+        Sorry without this permission application might work incorrect
+    </string>
+    <string name="label_new_sms">New SMS</string>
+    <string name="warning_fill_message">Please fill message</string>
+    <string name="warning_no_permission_to_send">
+        App doesn\'t have permission for this action
+    </string>
+</resources>

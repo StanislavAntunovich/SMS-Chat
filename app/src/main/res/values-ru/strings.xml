@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">СМС Чат</string>
+    <string name="new_message">Новое сообщение</string>
+    <string name="send_button">Отправить сообщение</string>
+    <string name="text_phone">Телефон</string>
+    <string name="warning_no_permission">
+        Извините без этого разрешения приложение может работать неправильно
+    </string>
+    <string name="label_new_sms">Новое СМС</string>
+    <string name="warning_fill_message">Пожалуйста введите сообщение</string>
+    <string name="warning_no_permission_to_send">
+        У приложения нет разрешения для данного действия
+    </string>
+</resources>
